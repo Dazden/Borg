@@ -7,6 +7,8 @@ namespace Lab1
         static void Main(string[] args)
         {
             Console.WriteLine("Orks!");
+            Console.WriteLine("War!");
+
         }
     }
 }
